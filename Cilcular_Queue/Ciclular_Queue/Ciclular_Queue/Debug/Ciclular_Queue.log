@@ -1,0 +1,7 @@
+﻿  케찹소스.c
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\Cilcular_Queue\Ciclular_Queue\Ciclular_Queue\케찹소스.c(32,29): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\Cilcular_Queue\Ciclular_Queue\Ciclular_Queue\케찹소스.c(41,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\Cilcular_Queue\Ciclular_Queue\Ciclular_Queue\케찹소스.c(46,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\Cilcular_Queue\Ciclular_Queue\Ciclular_Queue\케찹소스.c(50,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\Cilcular_Queue\Ciclular_Queue\Ciclular_Queue\케찹소스.c(38,12): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Ciclular_Queue.vcxproj -> C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\Cilcular_Queue\Ciclular_Queue\Debug\Ciclular_Queue.exe

@@ -1,0 +1,7 @@
+﻿  연결리스트.c
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\QSS\QSS(Linked_List)\QSS(Linked_List)\연결리스트.c(78,1): warning C4133: '초기화 중': 'List *'과(와) 'PNode' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\QSS\QSS(Linked_List)\QSS(Linked_List)\연결리스트.c(92,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\QSS\QSS(Linked_List)\QSS(Linked_List)\연결리스트.c(97,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\QSS\QSS(Linked_List)\QSS(Linked_List)\연결리스트.c(102,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\QSS\QSS(Linked_List)\QSS(Linked_List)\연결리스트.c(107,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  QSS(Linked_List).vcxproj -> C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\QSS\QSS(Linked_List)\Debug\QSS(Linked_List).exe

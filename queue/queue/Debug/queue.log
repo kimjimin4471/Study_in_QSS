@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\queue\queue\소스.c(7,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\queue\queue\소스.c(77,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\queue\queue\소스.c(80,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  queue.vcxproj -> C:\Users\user\Desktop\코드업보다는 비쥬얼\비쥬얼 스튜디오\훗날의 외주를 위해\queue\Debug\queue.exe
