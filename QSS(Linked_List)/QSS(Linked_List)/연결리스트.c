@@ -81,11 +81,31 @@ int get(List* list, int num)
 	return curr->data;
 }
 
+void delete(List* list, int index)
+{
+	if (list->head == NULL) return;
+	PNode curr = list->head;
+	if (index == 0)
+	{
+		PNode tmp = curr->next;
+		free(curr);
+		list->head = tmp;
+		return;
+	}
+	for (int i = 0; i < index -1; i++)
+	{
+		curr = curr->next;
+	}
+	PNode tmp = curr ->next;
+	curr->next = tmp ->next;
+	free(tmp);
+}
+
 int main() {
 	List list;
 	init_list(&list);
 	int n, data, num, result;
-	printf("1 = 맨 앞 2 = 맨 끝 3 = 노드 탐색 4 = 출력과 종료\n");
+	printf("1 = 맨 앞 2 = 맨 끝 3 = 노드 탐색 4 = 출력과 종료 5 = 노드 삭제\n");
 	while (1)
 	{
 		printf("명령어 입력 : ");
@@ -111,6 +131,11 @@ int main() {
 		case 4:
 			nodePrint(&list);
 			return 0;
+		case 5:
+			printf("삭제할 index번호 :");
+			scanf("%d", &num);
+			delete(&list, num);
+			break;
 		}
 	}
 }
