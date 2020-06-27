@@ -101,11 +101,26 @@ void delete(List* list, int index)
 	free(tmp);
 }
 
+void push_index(List* list, int index, int data)
+{
+
+	PNode newNode = (PNode)malloc(sizeof(Node));
+	newNode->data = data;
+	PNode curr = list->head;
+	for (int i = 0; i < index - 1; i++)
+	{
+		curr = curr->next;
+	}
+	PNode tmp = curr->next;
+	curr->next = newNode;
+	newNode->next = tmp;
+}
+
 int main() {
 	List list;
 	init_list(&list);
 	int n, data, num, result;
-	printf("1 = 맨 앞 2 = 맨 끝 3 = 노드 탐색 4 = 출력과 종료 5 = 노드 삭제\n");
+	printf("1 = 맨 앞 2 = 맨 끝 3 = 노드 탐색 4 = 출력과 종료 5 = 노드 삭제 6 = 특정 인덱스 삽입\n");
 	while (1)
 	{
 		printf("명령어 입력 : ");
@@ -135,6 +150,11 @@ int main() {
 			printf("삭제할 index번호 :");
 			scanf("%d", &num);
 			delete(&list, num);
+			break;
+		case 6:
+			printf("삽입할 번호와 데이터 :");
+			scanf("%d %d", &num, &data);
+			push_index(&list, num, data);
 			break;
 		}
 	}
