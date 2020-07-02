@@ -1,27 +1,31 @@
 #include<stdio.h>
 #include <stdlib.h>
 
-typedef struct Node {
+typedef struct Node		//노드
+{
 	struct Node* next;
 	int data;
 }Node;
 
-typedef struct List {
+typedef struct List		//헤드
+{
 	Node* head;
 }List;
 
 typedef Node* PNode;
 
-void init_node(PNode node, PNode next, int data) { // (노드 , NEXT에 붙일거, data)
+void init_node(PNode node, PNode next, int data)	// (노드 , NEXT에 붙일거, data) 
+{ 
 	node->next = next;
 	node->data = data;
 }
 
-void init_list(List* list) {
+void init_list(List* list)	//헤드 초기화
+{
 	list->head = NULL;
 }
 
-void push_front(List* list, int data) 
+void push_front(List* list, int data)	//연결리스트의 맨 앞에 노드 추가
 {
 	if (list->head == NULL) 
 	{
@@ -36,7 +40,7 @@ void push_front(List* list, int data)
 	}
 }
 
-void push_back(List* list, int data)
+void push_back(List* list, int data)	//연결리스트의 맨 끝에 노드 추가
 {
 	if (list->head == NULL)
 	{
@@ -53,7 +57,7 @@ void push_back(List* list, int data)
 	}
 }
 
-void nodePrint(List* list)
+void nodePrint(List* list)	//연결리스트를 출력하고 동적할당을 풀어준다.
 {
 	PNode curr = list->head;
 	while (curr->next != NULL)
@@ -73,7 +77,7 @@ void nodePrint(List* list)
 	}
 }
 
-int get(List* list, int num)
+int get(List* list, int num)	//특정 인덱스 번호에 있는 정보 출력
 {
 	PNode curr = list->head;
 	for (int i = 0; i < num; i++)
@@ -81,7 +85,7 @@ int get(List* list, int num)
 	return curr->data;
 }
 
-void delete(List* list, int index)
+void delete(List* list, int index)	//특정 인덱스 번호에 있는 노드를 삭제
 {
 	if (list->head == NULL) return;
 	PNode curr = list->head;
@@ -101,16 +105,13 @@ void delete(List* list, int index)
 	free(tmp);
 }
 
-void push_index(List* list, int index, int data)
+void push_index(List* list, int index, int data)	//특정 인덱스 번호에 노드를 생성하고 데이터를 넣는다.
 {
-
 	PNode newNode = (PNode)malloc(sizeof(Node));
 	newNode->data = data;
 	PNode curr = list->head;
 	for (int i = 0; i < index - 1; i++)
-	{
 		curr = curr->next;
-	}
 	PNode tmp = curr->next;
 	curr->next = newNode;
 	newNode->next = tmp;
