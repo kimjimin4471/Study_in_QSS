@@ -32,6 +32,10 @@ void check_id(char* check)
 			che = 0;
 		if (check[i] >= '{' && check[i] <= '~')
 			che = 0;
+		if (i == 0 && check[i] == '@')
+			che = 0;
+		if (check[i + 1] == '\0' && check[i] == '@')
+			che = 0;
 		if (check[i] == '@')
 			ch = '@';
 	}
