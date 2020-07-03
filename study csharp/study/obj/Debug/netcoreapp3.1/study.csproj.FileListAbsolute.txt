@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\라이더\study csharp\study\bin\Debug\netcoreapp3.1\study.exe
+C:\Users\user\Desktop\라이더\study csharp\study\bin\Debug\netcoreapp3.1\study.deps.json
+C:\Users\user\Desktop\라이더\study csharp\study\bin\Debug\netcoreapp3.1\study.runtimeconfig.json
+C:\Users\user\Desktop\라이더\study csharp\study\bin\Debug\netcoreapp3.1\study.runtimeconfig.dev.json
+C:\Users\user\Desktop\라이더\study csharp\study\bin\Debug\netcoreapp3.1\study.dll
+C:\Users\user\Desktop\라이더\study csharp\study\bin\Debug\netcoreapp3.1\study.pdb
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.csprojAssemblyReference.cache
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.AssemblyInfo.cs
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.dll
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.pdb
+C:\Users\user\Desktop\라이더\study csharp\study\obj\Debug\netcoreapp3.1\study.genruntimeconfig.cache
