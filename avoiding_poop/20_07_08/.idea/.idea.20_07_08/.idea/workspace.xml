@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5da5559-d1c8-41e8-b20a-7696c6468413" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stopwatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Poop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Poop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stopwatch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eOqmDunyXG3cYOZ9sY07xyrUrE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5da5559-d1c8-41e8-b20a-7696c6468413" name="Default Changelist" comment="" />
+      <created>1594203144915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594203144915</updated>
+      <workItem from="1594203154205" duration="86000" />
+      <workItem from="1594203310751" duration="4095000" />
+      <workItem from="1594212674261" duration="2373000" />
+      <workItem from="1594250721083" duration="28000" />
+      <workItem from="1594250792942" duration="5000" />
+      <workItem from="1594254190129" duration="679000" />
+      <workItem from="1594282893235" duration="22000" />
+      <workItem from="1594282993943" duration="65000" />
+      <workItem from="1594283146765" duration="606000" />
+      <workItem from="1594288730456" duration="1681000" />
+      <workItem from="1594647557767" duration="2380000" />
+      <workItem from="1594687171235" duration="2227000" />
+      <workItem from="1594712286310" duration="954000" />
+      <workItem from="1594713843414" duration="804000" />
+      <workItem from="1594721636713" duration="44000" />
+      <workItem from="1594721981603" duration="1096000" />
+      <workItem from="1595978728164" duration="1291000" />
+      <workItem from="1595997501516" duration="299000" />
+      <workItem from="1596008473362" duration="4445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="792" y="353" key="#Notifications" timestamp="1594203640065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="353" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1594203640065" />
+    <state x="1160" y="179" key="RiderGenerateDialog" timestamp="1594648060342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="179" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594648060342" />
+    <state x="-57" y="0" width="1153" height="1008" key="dock-window-1" timestamp="1595997801690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-57" y="0" width="1153" height="1008" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1595997801690" />
+  </component>
+</project>
