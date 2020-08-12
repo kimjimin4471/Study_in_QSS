@@ -23,8 +23,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Poop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Stopwatch.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Coin.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coin.cs" />
       </list>
     </option>
   </component>
@@ -89,6 +89,8 @@
       <workItem from="1595978728164" duration="1291000" />
       <workItem from="1595997501516" duration="299000" />
       <workItem from="1596008473362" duration="4445000" />
+      <workItem from="1596366420813" duration="1405000" />
+      <workItem from="1596448365611" duration="650000" />
     </task>
     <servers />
   </component>

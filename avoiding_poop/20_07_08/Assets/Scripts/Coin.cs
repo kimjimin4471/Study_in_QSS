@@ -21,7 +21,7 @@ public class Coin : MonoBehaviour
     {
         if (col.gameObject.CompareTag("Player"))
         {
-            transform.position = new Vector3(Random.Range(-15f, 15f), -2, 0);
+            transform.position = new Vector3(Random.Range(-15f, 15f), -2.358f, 0);
             total += 1;
         }
     }
