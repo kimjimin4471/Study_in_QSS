@@ -1,0 +1,4 @@
+﻿  Gym_suit.cpp
+C:\Users\user\Documents\GitHub\Study_in_QSS\Gym suit\Programmers_Gytsuit\Programmers_Gytsuit\Gym_suit.cpp(15,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Documents\GitHub\Study_in_QSS\Gym suit\Programmers_Gytsuit\Programmers_Gytsuit\Gym_suit.cpp(20,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Programmers_Gytsuit.vcxproj -> C:\Users\user\Documents\GitHub\Study_in_QSS\Gym suit\Programmers_Gytsuit\Debug\Programmers_Gytsuit.exe
